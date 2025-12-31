@@ -6,6 +6,6 @@ I like writing C#, Go, Python, and modern Bash. I'm slowly learning Rust and lik
 
 #### Quick facts
 
-- [Cats](https://letstry.science/about/me/): 2 (plus 2 bonus cats)
+- [Cats](https://letstry.science/about/pets/): 2 (plus 2 bonus cats)
 - [Dogs](https://letstry.science/about/pets/caspar/): 1
 - Education: BA CS Ripon College
